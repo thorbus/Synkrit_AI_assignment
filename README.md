@@ -3,19 +3,12 @@
 
 This project implements a Reddit bot that generates AI-powered content using Groq AI and posts it to a specified subreddit on a daily schedule. The bot uses the PRAW (Python Reddit API Wrapper) for Reddit interactions and Groq AI for content generation.
 
-
-
-
-
-
-
-
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/thorbus/Synkrit_AI_assignment.git
+  git clone https://github.com/thorbus/Reddit_Content_Bot.git
 ```
 install required libraries
 ```bash
